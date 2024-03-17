@@ -1,1 +1,3 @@
-# langchain-shots
+# langchain-shots 🍶
+
+### Contains langchain programs for learning
